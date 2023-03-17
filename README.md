@@ -19,3 +19,6 @@ To use the bot, you will need to have a Discord account and have the necessary p
 
 DiscordBot.py !create_server My Server 2 1 General Voice
 
+#Author
+
+Written by me
